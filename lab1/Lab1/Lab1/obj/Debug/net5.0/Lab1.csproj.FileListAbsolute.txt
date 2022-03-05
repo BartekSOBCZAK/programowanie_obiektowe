@@ -1,0 +1,16 @@
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\bin\Debug\net5.0\Lab1.exe
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\bin\Debug\net5.0\Lab1.dll
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\bin\Debug\net5.0\Lab1.pdb
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\obj\Debug\net5.0\Lab1.dll
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\obj\Debug\net5.0\Lab1.pdb
+D:\Users\bartlomiej.sobczak\Desktop\programowanie_obiektowe\lab1\Lab1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
